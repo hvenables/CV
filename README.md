@@ -6,17 +6,17 @@ After working in digital marketing and getting my first taste of computer progra
 
 ###Skills
 
-Fast Learner  
+####Fast Learner  
 At Makers Academy the ability to be a quick learn is almost a prerequisite of the course as things move so quickly. This ability to learn fast helped me during my final project where we chose to build a phone app using the ionic framework (which allows you to deploy to both android and iOS). In just under two weeks we had learnt the framework and also attached it to a firebase database which allows three way data binding to build a working phone app. Alarming is a communal alarm clock allowing for you to set up events, invite friends and set alarms on their phones from yours to make sure they dont miss it. It also integrated google maps api for directions.
 
-###Problem Solving 
+####Problem Solving 
 At AML i worked on large campaigns that went out in several countries in several languages and the management of the production of these projects fell to me.
 
 I realised that the main problem was a lack of visibility of future work. When having large variations in workload we needed to ensure that we had capacity to meet the demand.
 
 I solved this problem by implementing new systems. Along with the head of the Development department we introduce to Basecamp a project management software. I then built on this building large excel spreadsheets that automatically updated according to the date and the completion of the tasks.
 
-###Teamwork
+####Teamwork
 The ability to work in a team i have found is paramount to any working environment. I have developed these skills in several ways. We ran our final project with the agile methodologies, we used kanban system (waffle.io) to manage the workflow and had morning and afternoon stand ups to keep the team close. I am also a part of an FA affiliated football team UFC Farnham. Teamwork and unselfishness create the backbone of a great team, without them a team cannot realistically compete and at the time of completing this we are sitting third.
 
 ###Example Projects

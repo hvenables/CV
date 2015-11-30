@@ -1,5 +1,4 @@
-##Harry Venables
----------------------------------
+#Harry Venables
 
 Motivated and ambitious junior developer with a strong desire to learn.
 

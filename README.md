@@ -25,10 +25,10 @@ The ability to work in a team i have found is paramount to any working environme
 ---------------------------------
 | |Most Comfortable|Comfortable|Touched on|
 |---------|----------------|-------------------|------------------------------|
-|Languages|Javascript, Ruby, HTML|CSS,|Python|
-|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord|MongoDB|                 |
-|Frameworks|Angularjs, Rails, Sinatra|Nodejs | Emberjs                       |
-|Testing|RSpec, Capybara, Protractor, Jasmine|Mocha |
+|Languages|Javascript, Ruby, HTML|CSS |Python|
+|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord |MongoDB|                 |
+|Frameworks|Angularjs, Rails, Sinatra |Nodejs | Emberjs                       |
+|Testing|RSpec, Capybara, Protractor, Jasmine, Karma |Mocha |
 |Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
 ###Example Projects

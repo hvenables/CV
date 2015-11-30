@@ -2,12 +2,14 @@
 
 Motivated and ambitious junior developer with a strong desire to learn.
 
-After working in digital marketing and getting my first taste of computer programming i was hooked. I gave up my job to join makers academy in september 2015 to learn the skills required to make a great developer. I am now looking to start a career in a company that will help me to continue my learning while contributing to cutting-edge, live production projects.
+I worked in digital marketing it was their that i got my first taste of programming and i was hooked. I gave up my job to join makers academy in september 2015 to learn the skills required to make a great developer. I am now looking to start a career in a company that will help me to continue my learning while contributing to cutting-edge, live production projects.
 
 ###Skills
 
 ####Fast Learner  
-At Makers Academy the ability to be a quick learn is almost a prerequisite of the course as things move so quickly. This ability to learn fast helped me during my final project where we chose to build a phone app using the ionic framework (which allows you to deploy to both android and iOS). In just under two weeks we had learnt the framework and also attached it to a firebase database which allows three way data binding to build a working phone app. Alarming is a communal alarm clock allowing for you to set up events, invite friends and set alarms on their phones from yours to make sure they dont miss it. It also integrated google maps api for directions.
+At Makers Academy the ability to be a quick learn is almost a prerequisite of the course as things move so quickly. 
+
+This ability to learn fast helped me during my final project where we chose to build a phone app using the ionic framework, despite having no previous experience with ionic.
 
 ####Problem Solving 
 At AML i worked on large campaigns that went out in several countries in several languages and the management of the production of these projects fell to me.

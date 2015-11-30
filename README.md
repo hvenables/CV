@@ -1,10 +1,12 @@
 #Harry Venables
+---------------------------------
 
 Motivated and ambitious junior developer with a strong desire to learn.
 
 I worked in digital marketing it was their that i got my first taste of programming and i was hooked. I gave up my job to join makers academy in september 2015 to learn the skills required to make a great developer. I am now looking to start a career in a company that will help me to continue my learning while contributing to cutting-edge, live production projects.
 
 ###Skills
+---------------------------------
 
 ####Fast Learner  
 At Makers Academy the ability to be a quick learn is almost a prerequisite of the course as things move so quickly. 
@@ -32,6 +34,7 @@ The ability to work in a team i have found is paramount to any working environme
 |Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
 ###Example Projects
+---------------------------------
 
 Ionic - Angularjs and Firebase
 We built our final project in Ionic which is a framework which allows you to turn an angularjs app into a Android and iOS app. 
@@ -46,6 +49,7 @@ MEAN stack
 I worked on building a reddit clone (flapper news) using the MEAN stack. I am pleased with this project due to the separation of concern and single responsibility. I also used Karma and Protractor to test the app. The app is available at
  
 ###Education
+---------------------------------
 
 Makers Academy (September 2015 - November 2015)
 Highly selective 12 week course.
@@ -68,6 +72,7 @@ A-Levels: Chemistry B, Physics C, Biology C.
 GCSE: A* - Maths, A - Biology, B - Physics, Chemistry, English Literature, History, Art, C - English Language
 
 ###Experience
+---------------------------------
 
 AML Group - August 2014 - August 2015
 Production Executive

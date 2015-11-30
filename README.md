@@ -21,6 +21,16 @@ I solved this problem by implementing new systems. Along with the head of the De
 ####Teamwork
 The ability to work in a team i have found is paramount to any working environment. I have developed these skills in several ways. We ran our final project with the agile methodologies, we used kanban system (waffle.io) to manage the workflow and had morning and afternoon stand ups to keep the team close. I am also a part of an FA affiliated football team UFC Farnham. Teamwork and unselfishness create the backbone of a great team, without them a team cannot realistically compete and at the time of completing this we are sitting third.
 
+###Technical Skills and Technologies
+---------------------------------
+| |Most Comfortable|Comfortable|Touched on|
+|---------|----------------|-------------------|------------------------------|
+|Languages|Javascript, Ruby, HTML|CSS,|Python|
+|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord|MongoDB|                 |
+|Frameworks|Angularjs, Rails, Sinatra|Nodejs | Emberjs                       |
+|Testing|RSpec, Capybara, Protractor, Jasmine|Mocha |
+|Other|Version control through Github|Heroku deployment, Agile methodologies| |
+
 ###Example Projects
 
 Ionic - Angularjs and Firebase

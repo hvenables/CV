@@ -52,10 +52,6 @@ I worked on building a reddit clone (flapper news) using the MEAN stack. I am pl
 
 Makers Academy (September 2015 - November 2015)
 Highly selective 12 week course.
-Focused on agile methodologies, test driven development and pair programming.
-Languages and Frameworks; Ruby, Rails, Javascript, jQuery, Angularjs, Nodejs.
-Testing suites; Rspec, Capybara, Jasmine, Protractor, Karma
-Emphasis on being a self-starting learner and problem solving.
 Made an alumni helper on graduating, to assist the next cohort of students with their technical problems.
 
 Plymouth University (September 2009 - June 2013)

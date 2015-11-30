@@ -74,14 +74,14 @@ GCSE: A* - Maths, A - Biology, B - Physics, Chemistry, English Literature, Histo
 ---------------------------------
 
 * AML Group - August 2014 - August 2015
-⋅⋅* Production Executive
+- Production Executive
 * The Britannia Pub - February 2014 - August 2014
-* Bartender
+- Bartender
 * AML Group - November 2013 - December 2013
-* Internship
+- Internship
 * Tristram Campsite - April - October 2011, 2012, 2013
-* Reservations Assistant
+- Reservations Assistant
 * Simply Sports - September 2008 - June 2009
-* Sales Assistant
+- Sales Assistant
 * Surrey Paintball Center - September 2007 - September 2008
-* Paintball Marshall
+- Paintball Marshall

@@ -74,7 +74,7 @@ GCSE: A* - Maths, A - Biology, B - Physics, Chemistry, English Literature, Histo
 ---------------------------------
 
 * AML Group - August 2014 - August 2015
-* Production Executive
+..* Production Executive
 * The Britannia Pub - February 2014 - August 2014
 * Bartender
 * AML Group - November 2013 - December 2013

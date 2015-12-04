@@ -44,6 +44,8 @@ Built a twitter clone using Sinatra with PostgreSQL, I was pleased with the refa
 Built a instagram clone using Ruby on Rails with PostgreSQL, I was pleased with how powerful rails was this allowed me to focus on the functionality and also the look and feel of the site which i was very pleased with. The project was deployed to heroku and can be found 
 https://harrygram.herokuapp.com/
 
+Angularjs - A form that was built for bulk ordering of boxes using angularjs to make the form dynamic. It can be found at https://github.com/hvenables/fantasticbox
+
 MEAN stack
 I worked on building a reddit clone (flapper news) using the MEAN stack. I am pleased with this project due to the separation of concern and single responsibility. I also used Karma and Protractor to test the app. The app is available at
  

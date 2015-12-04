@@ -47,7 +47,7 @@ https://harrygram.herokuapp.com/
 Angularjs - A form that was built for bulk ordering of boxes using angularjs to make the form dynamic. It can be found at https://github.com/hvenables/fantasticbox
 
 MEAN stack
-I worked on building a reddit clone (flapper news) using the MEAN stack. I am pleased with this project due to the separation of concern and single responsibility. I also used Karma and Protractor to test the app. The app is available at
+I worked on building a reddit clone (flapper news) using the MEAN stack. I am pleased with this project due to the separation of concern and single responsibility. I also used Karma and Protractor to test the app. The app is available at https://github.com/hvenables/flapper-news
  
 ###Education
 ---------------------------------

@@ -26,9 +26,9 @@ The ability to work in a team i have found is paramount to any working environme
 ---------------------------------
 | |Most Comfortable|Comfortable|Touched on|
 |---------|----------------|-------------------|------------------------------|
-|Languages|Javascript, Ruby, HTML|CSS |Python|
+|Languages|Javascript, Ruby, HTML, CSS|SASS |Python|
 |Databases/ORMS|PostGresQL, DataMapper, ActiveRecord |MongoDB, Firebase|                 |
-|Frameworks|Angularjs, Rails, Sinatra, Ionic |Nodejs | Emberjs                       |
+|Frameworks|Angularjs, Rails, Sinatra |Nodejs, Ionic | Emberjs                       |
 |Testing|RSpec, Capybara, Protractor, Jasmine, Karma |Mocha |
 |Other|Version control through Github|Heroku deployment, Agile methodologies| |
 

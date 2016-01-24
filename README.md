@@ -8,16 +8,17 @@ I worked in digital marketing it was their that i got my first taste of programm
 ---------------------------------
 
 ####Fast Learner  
-At Makers Academy the ability to be a quick learn is almost a prerequisite of the course as things move so quickly. 
+At Makers Academy the ability to be a quick learn is almost a prerequisite of the course as things move so quickly. This ability to learn fast helped me during my final project where we chose to build a phone app using the ionic framework, despite having no previous experience with ionic.
 
-This ability to learn fast helped me during my final project where we chose to build a phone app using the ionic framework, despite having no previous experience with ionic.
+####Project Management
+
+Managed several projects while working at AML Group. As production executive I would organise a team of 6 to create multi media advertising campaigns for Financial clients. To complete this task we used basecamp to track the progress of the projects through the organisation.
+
+As part of my role at AML i also had to help manage the resource planning of the organisation. This would involve assisting in creating a 4 week schedule of work for the 35 people at the agency on Google Sheets, keeping it updated on a weekly basis.
+
 
 ####Problem Solving 
-At AML i worked on large campaigns that went out in several countries in several languages and the management of the production of these projects fell to me.
-
-I realised that the main problem was a lack of visibility of future work. When having large variations in workload we needed to ensure that we had capacity to meet the demand.
-
-I solved this problem by implementing new systems. Along with the head of the Development department we introduce to Basecamp a project management software. I then built on this building large excel spreadsheets that automatically updated according to the date and the completion of the tasks.
+At AML we had problems while organising the resource plan. We had large variations in workload on a weekly basis and we needed to ensure that we had capacity to meet the demand. We realised that the main problem was a lack of visibility of future work. I solved this problem by implementing new systems. Along with the head of the digital department we introduced Basecamp a project management software. I then built on this building large excel spreadsheets that automatically updated according to the date and the completion of the tasks.
 
 ####Teamwork
 The ability to work in a team i have found is paramount to any working environment. I have developed these skills in several ways. We ran our final project with the agile methodologies, we used kanban system (waffle.io) to manage the workflow and had morning and afternoon stand ups to keep the team close. I am also a part of an FA affiliated football team UFC Farnham. Teamwork and unselfishness create the backbone of a great team, without them a team cannot realistically compete and at the time of completing this we are sitting third.
